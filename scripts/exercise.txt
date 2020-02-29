@@ -1,0 +1,20 @@
+### NEW R FUNCTION ###
+
+
+#' @title Test Function
+#' @name TestFunction
+#' @description Test Function
+#' 
+#' @export
+TestFunction <- function(){
+	print("TESTING")
+}
+
+
+### NEW py FUNCTION ###
+
+def test_function():
+    """
+    Test Function
+    """
+    print("TESTING")

@@ -1,0 +1,7 @@
+# python things
+*.egg-info/
+*.ipynb_checkpoints/
+*_pycache_*
+
+# other things
+*.DS_Store
